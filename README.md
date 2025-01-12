@@ -6,6 +6,9 @@ Me chamo Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvime
 
 ---
 
+<br>
+<br>
+
 ### 🤖 Linguagens e Tecnológias
 
 <img
@@ -85,6 +88,25 @@ Me chamo Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvime
     alt="REACT"
     title="React"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<br>
+<br>
+
+### 💻Estatísticas💻
+
+<img
+    align="left"
+    alt="Github stats"
+    height="200"
+    style="padding: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=guilherme-fermino-de-souza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+    align="left"
+    alt="Github stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-fermino-de-souza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
