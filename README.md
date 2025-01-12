@@ -1,6 +1,6 @@
 # 👨🏼‍🎓 Guilherme Fermino de Souza
 
-📚'Estudante'📚
+📚**Estudante**📚
 
 Me chamo Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvimento de Sistemas na Etec de Guainases, em São Paulo. Também estou estudando tecnologia pela plataforma da 'Alura', com alguns de meus códigos e progressos salvos no Github como portfólio.
 
@@ -9,7 +9,7 @@ Me chamo Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvime
 <br>
 <br>
 
-### 🤖 Linguagens e Tecnológias
+### 🤖 **Linguagens e Tecnológias**
 
 <img
     align="left"
@@ -94,7 +94,7 @@ Me chamo Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvime
 <br>
 <br>
 
-### 💻Estatísticas💻
+### 💻**Estatísticas**💻
 
 <img
     align="left"
