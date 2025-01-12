@@ -2,7 +2,7 @@
 
 📚'Estudante'📚
 
-Me chama Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvimento de Sistemas na [Etec de Guainases], em São Paulo. Também estou estudando tecnologia pela plataforma da [Alura], com alguns de meus códigos e progressos salvos no Github como portfólio.
+Me chamo Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvimento de Sistemas na [Etec de Guainases], em São Paulo. Também estou estudando tecnologia pela plataforma da [Alura], com alguns de meus códigos e progressos salvos no Github como portfólio.
 
 ---
 
@@ -28,11 +28,11 @@ Me chama Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvime
 
 <img
     align="left"
-    alt="REACT"
-    title="React"
+    alt="JS"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <img
@@ -42,15 +42,6 @@ Me chama Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvime
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-<img
-    align="left"
-    alt="JS"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <img
@@ -87,4 +78,13 @@ Me chama Guilherme Fermino de Souza, tenho 18 anos e estou cursando Desenvolvime
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="REACT"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
